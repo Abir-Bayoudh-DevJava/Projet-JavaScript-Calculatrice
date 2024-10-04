@@ -1,0 +1,36 @@
+/* button{ 
+background-color: rgb(165, 42, 112);
+
+}; */
+
+
+/* button{ 
+    background-color:#fd7e14;
+}*/
+
+.bgorange{
+    background-color: #f17106;
+}
+
+.bgrouge{
+
+    background-color: #d3071b90;
+}
+
+.bgjaune{
+
+    background-color: #e4ac03;
+}
+
+td, tr {
+    background-color: #00000051 !important;
+    border: none;
+}
+
+button {
+    border: none;
+}
+
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
